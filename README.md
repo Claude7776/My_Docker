@@ -17,3 +17,15 @@ Il contient un `Dockerfile` simple qui exécute un script affichant **"Hello Wor
 ```bash
 git clone https://github.com/Claude7776/My_Docker.git
 cd My_Docker
+```
+### 2.Construire l’image Docker
+
+docker build -t hello-world-docker .
+
+### 3.Lancer le conteneur
+
+docker run --rm hello-word-docker
+
+### ✅ Résultat attendu
+
+Hello World !!!
