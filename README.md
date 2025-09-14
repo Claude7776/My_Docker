@@ -15,5 +15,5 @@ Il contient un `Dockerfile` simple qui exécute un script affichant **"Hello Wor
 
 ### 1. Cloner mon dépôt
 ```bash
-git clone https://github.com/monusername/mon-premier-dockerfile.git
+git clone https://github.com/Claude7776/My_Docker.git
 cd mon-premier-dockerfile
