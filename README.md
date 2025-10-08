@@ -19,13 +19,19 @@ git clone https://github.com/Claude7776/My_Docker.git
 cd My_Docker
 ```
 ### 2.Construire l’image Docker
-
-docker build -t hello-world-docker .
+```bash
+docker build -t hello-world-docker
+```
 
 ### 3.Lancer le conteneur
-
-docker run hello-word-docker
-
+```bash
+docker run hello-world-docker
+``
 ### ✅ Résultat attendu
 
 Hello World !!!
+
+### 3.Verificaton d'images
+```bash
+docker images
+```
