@@ -24,7 +24,7 @@ docker build -t hello-world-docker .
 
 ### 3.Lancer le conteneur
 
-docker run hello-word
+docker run hello-word-docker
 
 ### ✅ Résultat attendu
 
