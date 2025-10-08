@@ -26,7 +26,7 @@ docker build -t hello-world-docker
 ### 3.Lancer le conteneur
 ```bash
 docker run hello-world-docker
-``
+```
 ### ✅ Résultat attendu
 
 Hello World !!!
